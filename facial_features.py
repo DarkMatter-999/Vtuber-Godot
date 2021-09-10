@@ -1,3 +1,6 @@
+"""
+Modified from https://github.com/mmmmmm44/VTuber-Python-Unity/blob/main/facial_features.py
+"""
 import cv2
 import numpy as np
 
